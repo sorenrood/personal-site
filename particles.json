@@ -1,0 +1,27 @@
+{
+    "particles": {
+        "number": {
+            "value": 75
+        },
+        "size": {
+            "value": 2
+        },
+        "color": {
+            "value": "#ffffff"
+        }
+    },
+    "shape": {
+        "type": "circle"
+    },
+    "interactivity": {
+        "events": {
+            "onclick": {
+                "enable": false
+            },
+            "onhover": {
+                "enable": false
+            }
+        }
+    },
+    "retina_detect": true
+}
